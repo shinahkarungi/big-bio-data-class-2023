@@ -34,7 +34,7 @@ The content in this repository will be studied as follows:
 
 This repository consists of different files.
 
-1 - Assignments: All given assignments will be pushed to this file. Students will be advised on how to do this.
-2 - Data: This contains data that shall be used in the course, most of the data is freely available on Kaggle.
-3 - Machine Learning Example: A tutorial where the principles learnt will be applied.
-4 - Python for datascience notebooks: All the study notebooks to be used are kept in this folder: students need to have jupyter installed locally to use these material offline.
+ - Assignments: All given assignments will be pushed to this file. Students will be advised on how to do this.
+ - Data: This contains data that shall be used in the course, most of the data is freely available on Kaggle.
+ - Machine Learning Example: A tutorial where the principles learnt will be applied.
+ - Python for datascience notebooks: All the study notebooks to be used are kept in this folder: students need to have jupyter installed locally to use these material offline.
