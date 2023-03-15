@@ -10,7 +10,7 @@ The content in this repository will be studied as follows:
 
 1 - Introduction to Numpy:
 
-NumPy is a fundamental library in Python for numerical computing, and it is widely used in scientific computing, data analysis, and machine learning applications. NumPy stands for "Numerical Python," and it provides an efficient and convenient way to work with large arrays and matrices of numeric data in Python.
+>> NumPy is a fundamental library in Python for numerical computing, and it is widely used in scientific computing, data analysis, and machine learning applications. NumPy stands for "Numerical Python," and it provides an efficient and convenient way to work with large arrays and matrices of numeric data in Python.
 
 NumPy is built on top of the C programming language, which allows for fast and efficient computation of large arrays and matrices. It provides a powerful set of tools for array manipulation, indexing, and linear algebra operations.
 
