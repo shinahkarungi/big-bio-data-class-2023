@@ -1,2 +1,3 @@
-# big-bio-data-class-2023
-This is the updated class for the brecca grant: MUK 2023
+# Big Bio-data Analysis Class 2023
+
+This repository consists of material that was used in teaching the bioinformatics major masters and PhD students in their first year of school 2023
