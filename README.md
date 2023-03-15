@@ -1,3 +1,4 @@
+
 # Big Bio-data Analysis Class 2023
 
 This repository consists of material that was used in teaching the bioinformatics major masters and PhD students in their first year of school 2023
@@ -26,3 +27,14 @@ The content in this repository will be studied as follows:
 4 - Machine Learning:
 
 >> Machine learning is a rapidly growing field of artificial intelligence that aims to enable computers to learn from data and make predictions or decisions without being explicitly programmed. In machine learning, algorithms and statistical models are trained on a large dataset to recognize patterns and relationships between features, and then use this knowledge to make predictions or decisions on new data.
+
+---
+
+# File Structure
+
+This repository consists of different files.
+
+1 - Assignments: All given assignments will be pushed to this file. Students will be advised on how to do this.
+2 - Data: This contains data that shall be used in the course, most of the data is freely available on Kaggle.
+3 - Machine Learning Example: A tutorial where the principles learnt will be applied.
+4 - Python for datascience notebooks: All the study notebooks to be used are kept in this folder: students need to have jupyter installed locally to use these material offline.
